@@ -1,5 +1,5 @@
-## This is Small Device C compiler 
+# This is Small Device C compiler 
 
-# Suported Architexture 
+## Suported Architexture 
   1.  mcs-51
   
